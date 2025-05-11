@@ -49,6 +49,11 @@ The system ensures data integrity with two main verification methods:
 
 ---
 
+## ▶️ General FTP Sequence Diagram
+
+![control](https://github.com/user-attachments/assets/c5698ddd-9d84-4dad-a20a-2d5cc1c4cdef)
+
+---
 ## 🧱 Primitive Data Types & Structure
 
 File transfer data is packaged in JSON format using Base64 encoding. The structure of each chunk includes the following elements:
